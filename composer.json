@@ -1,6 +1,6 @@
 {
     "name": "herloct/codeception-slim-module-example",
-    "description": "Sample project for my codeception-slim-module.",
+    "description": "Sample project for my herloct/codeception-slim-module.",
     "type": "project",
     "require": {
         "slim/slim": "^3.7"
